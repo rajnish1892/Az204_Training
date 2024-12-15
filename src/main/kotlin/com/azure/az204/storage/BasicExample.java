@@ -34,7 +34,6 @@ public class BasicExample {
        /* String accountName = SampleHelper.getAccountName();
         String accountKey = SampleHelper.getAccountKey();*/
         String accountName = "blobexample121224";
-        String accountKey = "lUbA/mq0uuYkt+Ow02n7r1laZQfa+5YYtsqGyC91T4i4QU4aVFXEM7UuJn+IbV+8m0+cBb9qu0aP+AStKiZV9w==";
 
         /*
          * Use your Storage account's name and key to create a credential object; this is used to access your account.
